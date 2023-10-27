@@ -106,7 +106,7 @@ copy udl\markdown.zenburn.udl.xml %npp_udl%
 
 ```
 :: See the difference of a file, e.g. an output file after build
-git diff udl\markdown.zenburn.udl.xml
+git diff udl\
 
 :: Discard all changes to latest commit
 git checkout -- .
